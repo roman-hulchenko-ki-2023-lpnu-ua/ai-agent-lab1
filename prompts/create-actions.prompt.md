@@ -1,0 +1,1 @@
+Виклич навичку (skill) `github-actions`. Створи конфігурацію CI у файлі `.github/workflows/ci.yml` з використанням матриці для ОС: ubuntu-latest, windows-latest, macos-latest. Workflow має містити кроки checkout, налаштування Java, збірку та запуск тестів Maven.
